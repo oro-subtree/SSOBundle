@@ -1,4 +1,4 @@
-system_configuration:
+oro_system_configuration:
     groups:
         google_sso_settings:
             title: oro.sso.system_configuration.groups.google_sso_settings.title
